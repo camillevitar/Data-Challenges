@@ -1,0 +1,25 @@
+Análisis Univariado
+
+Tipos de Análisis Estadístico
+
+En el mundo de la Estadística, se distinguen tres tipos de análisis principales según el número de variables que se analicen conjuntamente. Podemos destacar el análisis:  Univariado, Bivariado y Multivariado. 
+
+En esta sesión, nos centraremos exclusivamente en el análisis Univariado.
+
+Concepto
+
+El análisis univariado, consiste en el análisis de cada una de las variables estudiadas por separado es decir, el análisis se basa exclusivamente en una única variable. Por ejemplo, cuando decimos que una persona pesa 95 k. independientemente de cualquier otra característica estaremos en presencia de análisis univariado. Igualmente estaremos hablando de estadística univariada cuando decimos (por ejemplo) que el 23% de las personas son de piel blanca y que el resto (77%) son de piel morena.
+
+El análisis univariado es el análisis más básico y por ende más primario. Las técnicas más frecuentes de análisis univariado son la distribución de frecuencias para una tabla univariada y el análisis de las medidas de tendencia central de la variable.
+
+Resulta importante mencionar, que este tipo de análisis ha sido muy criticado ya que la realidad se presenta interconectada y relacionada. Por ejemplo existe una relación entre el peso y la talla de las personas o entre la el interés y el rendimiento escolar, etc.
+
+Entonces como la realidad se presenta relacionada necesitamos métodos más rigurosos para evaluarla. De allí surge la necesidad de realizar un análisis bivariado o multivariado.
+
+Gráficas
+
+Si pensamos en los gráficos que podemos utilizar para realizar un análisis univariado, se destacan los siguientes:
+
+- 	Line Plots – Gráficos de Líneas
+- 	Bar Charts – Gráficos de barras
+- 	Histogramas.
